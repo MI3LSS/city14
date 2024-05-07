@@ -1,0 +1,14 @@
+ent-DrinkShaker = шейкер
+    .desc = Верный, смешивающий приятель бармена. Хэй диджей...
+ent-DrinkShotGlass = стопка
+    .desc = Идеально подходит для того, чтобы со злостью ударить ей по столу.
+ent-DrinkJar = банка
+    .desc = Стакан хипстера.
+ent-DrinkJarWhat = банка чего-то
+    .desc = Вы не можете точно сказать, что это такое.
+ent-BartenderMixer = { "" }
+    .desc = { "" }
+ent-DrinkJigger = jigger
+    .desc = Like a shaker, but smaller. Used to control the amount of ingredients.
+ent-DrinkIceBucket = ice bucket
+    .desc = A special bucket of refreshy ice. Prohibited use for challenge with the same name!

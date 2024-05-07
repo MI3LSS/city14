@@ -1,0 +1,27 @@
+- type: gameMapPool
+  id: CorvaxDefaultMapPool
+  maps:
+  - CorvaxDelta
+  - CorvaxAvrite
+  - CorvaxSilly
+  - CorvaxOutpost
+  - CorvaxAstra
+  - CorvaxGelta
+  - CorvaxMaus
+  - CorvaxIshimura
+  - CorvaxPaper
+  - CorvaxPilgrim
+  - CorvaxSplit
+  - Atlas
+  - Bagel
+  - Box
+  - Cluster
+  - Core
+  - Fland
+  - Marathon
+  - Meta
+  - Omega
+  - Origin
+  - Saltern
+  - Packed
+  - Reach
